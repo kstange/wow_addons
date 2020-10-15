@@ -1,0 +1,30 @@
+tag 6a88d6710ee01c414d85234d222949943f5aacb0 1.6
+Author:	Tim Wienk <tim@wienk.name>
+Date:	Wed Oct 2 19:33:58 2019 +0200
+
+Tagging as 1.6.
+
+commit 687b4f84937f787f752a42a28cec7eb31f6ffa1c
+Author: Tim Wienk <tim@wienk.name>
+Date:   Wed Oct 2 19:32:10 2019 +0200
+
+    Update TOC for 8.2.5.
+
+commit 04c6371e40928a9e93043404b43aaea30588ab73
+Author: Tim Wienk <tim@wienk.name>
+Date:   Wed Oct 2 19:32:09 2019 +0200
+
+    Update and simplify externals in .pkgmeta.
+
+commit 604d4826a2699c54fe28bd2d2162161c65f86a68
+Author: Tim Wienk <tim@wienk.name>
+Date:   Wed Oct 2 19:32:07 2019 +0200
+
+    Update URLs in TOC and README files.
+
+commit 0e3a03e5dedba2d64816cf2dc7846d93255548ae
+Author: Tim Wienk <tim@wienk.name>
+Date:   Wed Oct 2 19:32:04 2019 +0200
+
+    Update for changes to EncounterJournal.
+

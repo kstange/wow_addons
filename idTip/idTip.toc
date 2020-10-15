@@ -1,0 +1,6 @@
+## Interface: 90000
+## Title: idTip
+## Version: 8.2.1-simguy
+## Notes: Adds IDs to the ingame tooltips
+## Author: silverwind
+idTip.lua

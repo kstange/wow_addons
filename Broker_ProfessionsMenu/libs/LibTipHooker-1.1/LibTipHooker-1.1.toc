@@ -1,0 +1,15 @@
+﻿## Interface: 40000
+## Title: Lib: TipHooker-1.1
+## Notes: A Library for hooking tooltips.
+## Notes-zhTW: 用來Hook物品提示的函式庫
+## Author: Whitetooth
+## X-eMail: hotdogee [at] gmail [dot] com
+## Version: $Revision: 13 $
+## LastUpdate: $Date: 2010-10-19 16:48:49 +0000 (Tue, 19 Oct 2010) $
+## X-Category: Library
+## X-License: LGPL v3
+## X-Encoding: UTF-8
+
+LibStub\LibStub.lua
+
+LibTipHooker-1.1\lib.xml

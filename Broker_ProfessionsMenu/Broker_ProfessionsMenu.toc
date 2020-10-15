@@ -1,0 +1,35 @@
+## Interface: 90000
+## Title: Broker_ProfessionsMenu
+## Author: Yargoro@Arathor-EU
+## Former Author: Sanori (Pathur) @ EU-Anetheron
+## Notes: Broker_ProfessionsMenu is a broker addon for managing your trade skills and trade cooldowns.
+## Version: 8.3.0.0-simguy
+## X-Debug: false
+## X-License: All Rights Reserved
+## SavedVariables: Broker_ProfessionsMenu
+
+addon.lua
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+# Localization
+
+localization\enUS.lua
+localization\deDE.lua
+localization\zhCN.lua
+localization\zhTW.lua
+localization\esES.lua
+localization\esMX.lua
+localization\frFR.lua
+localization\itIT.lua
+localization\koKR.lua
+localization\ptBR.lua
+localization\ruRU.lua
+
+# Core
+
+core.lua
+dropdownmenu.lua
+sharedcds.lua
