@@ -338,7 +338,7 @@ if not isClassicWow then
 
   -- Currencies
   hooksecurefunc(GameTooltip, "SetCurrencyToken", function(self, index)
-    local id = tonumber(string.match(GetCurrencyListLink(index),"currency:(%d+)"))
+    local id = tonumber(string.match(C_CurrencyInfo.GetCurrencyListLink(index),"currency:(%d+)"))
     addLine(self, id, kinds.currency)
   end)
 
